@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+/dist
+npm-debug.log
+/node_modules
+.happypack
+/build
+static/vendor-manifest.json
+static/vendor.dll.js
+.vscode/settings.json

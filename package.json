@@ -1,0 +1,20 @@
+{
+  "name": "ts-demo",
+  "version": "1.0.0",
+  "description": "ts demo ",
+  "main": "Generics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bl",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^1.18.2",
+    "typescript": "^3.5.3"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^1.11.0",
+    "@typescript-eslint/parser": "^1.11.0",
+    "eslint": "^6.0.1"
+  }
+}
